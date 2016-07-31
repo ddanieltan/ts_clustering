@@ -10,3 +10,4 @@ http://www.rdatamining.com/examples/time-series-clustering-classification
 http://stats.stackexchange.com/questions/3238/time-series-clustering-in-r
 http://stackoverflow.com/questions/1714280/multivariate-time-series-modelling-in-r/1715488#1715488
 http://faculty.chicagobooth.edu/ruey.tsay/teaching/bs41202/sp2015/
+http://stats.stackexchange.com/questions/22209/can-someone-please-explain-dynamic-time-warping-for-determining-time-series-simi
